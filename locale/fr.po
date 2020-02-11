@@ -2120,10 +2120,10 @@ msgstr ""
 msgid "\"%s\" requires one or more tracks to be selected."
 msgstr "\"%s\" nécessite qu’une ou plusieurs pistes soit sélectionnée."
 
-# trebmuh to check (vérifier dans un contexte graphique)
+#. i18n-hint: Displayed before a text input for inserting file name of report (ends with “.zip”)
 #: src/CrashReport.cpp
 msgid "Report generated to:"
-msgstr "Rapport généré pour :"
+msgstr "Rapport généré vers :"
 
 # trebmuh to check (vérifier dans un contexte graphique)
 #: src/CrashReport.cpp
